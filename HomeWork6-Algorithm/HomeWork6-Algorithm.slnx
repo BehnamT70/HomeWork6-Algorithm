@@ -1,0 +1,32 @@
+<Solution>
+  <Folder Name="/QuestionEight/">
+    <Project Path="QuestionEight/QuestionEight.csproj" />
+  </Folder>
+  <Folder Name="/QuestionFive/">
+    <Project Path="QuestionFive/QuestionFive.csproj" />
+  </Folder>
+  <Folder Name="/QuestionFour/">
+    <Project Path="QuestionFour/QuestionFour.csproj" />
+  </Folder>
+  <Folder Name="/QuestionNine/">
+    <Project Path="QuestionNine/QuestionNine.csproj" />
+  </Folder>
+  <Folder Name="/QuestionOne/">
+    <Project Path="QuestionOne/QuestionOne.csproj" />
+  </Folder>
+  <Folder Name="/QuestionSeven/">
+    <Project Path="QuestionSeven/QuestionSeven.csproj" />
+  </Folder>
+  <Folder Name="/QuestionSix/">
+    <Project Path="QuestionSix/QuestionSix.csproj" />
+  </Folder>
+  <Folder Name="/QuestionTen/">
+    <Project Path="QuestionTen/QuestionTen.csproj" />
+  </Folder>
+  <Folder Name="/QuestionThree/">
+    <Project Path="QuestionThree/QuestionThree.csproj" />
+  </Folder>
+  <Folder Name="/QuestionTwo/">
+    <Project Path="QuestionTwo/QuestionTwo.csproj" />
+  </Folder>
+</Solution>
